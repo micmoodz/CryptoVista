@@ -1,0 +1,16 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run DeFi Dashboard Lite",
+			"type": "shell",
+			"command": "npm start",
+			"args": [],
+			"isBackground": false,
+			"problemMatcher": [
+				"$tsc"
+			],
+			"group": "build"
+		}
+	]
+}
